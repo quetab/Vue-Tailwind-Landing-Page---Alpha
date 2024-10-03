@@ -27,3 +27,13 @@ This app can be used as a starter app for other projects.
 
 Our mission is to make AI generated content humanly moderated and enhanced, and available for all.
 For more information, visit: https://www.quetab.com
+## Screenshots
+
+![Landing Screen](https://github.com/quetab/Vue-Tailwind-Landing-Page---Alpha/blob/main/screenshots/landing.png?raw=true)
+
+![Pricing Screen](https://github.com/quetab/Vue-Tailwind-Landing-Page---Alpha/blob/main/screenshots/pricing.png?raw=true)
+
+![Start Screen](https://github.com/quetab/Vue-Tailwind-Landing-Page---Alpha/blob/main/screenshots/register.png?raw=true)
+
+
+![Contact Screen](https://github.com/quetab/Vue-Tailwind-Landing-Page---Alpha/blob/main/screenshots/contact.png?raw=true)
