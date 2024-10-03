@@ -67,28 +67,33 @@ export default {
                 title: 'Basic',
                 price: 49.99,
                 features: [
-                    'General dentistry content',
-                    'General dentistry cases',
-                    'General dentistry quizzes'
+                    'Feature 1',
+                    'Feature 2',
+                    'Feature 3',
                 ]
             },
             plus: {
                 title: 'Plus',
                 price: 69.99,
                 features: [
-                    'Specialist and general dentistry content',
-                    'Specialist and general dentistry cases',
-                    'Specialist and general dentistry quizzes',
+                    'Feature 1',
+                    'Feature 2',
+                    'Feature 3',
+                    'Feature 4',
+                    'Feature 5'
                 ]
             },
             premium: {
                 title: 'Premium',
                 price: 99.99,
                 features: [
-                    'Specialist and general dentistry content',
-                    'Specialist and general dentistry cases',
-                    'Specialist and general dentistry quizzes',
-                    'Early access to new features and content'
+                    'Feature 1',
+                    'Feature 2',
+                    'Feature 3',
+                    'Feature 4',
+                    'Feature 5',
+                    'Feature 6',
+                    'Feature 7'
                 ]
             }
         }
